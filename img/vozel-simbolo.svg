@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Vozel — símbolo isolado</title>
+  <desc id="desc">Símbolo geométrico de livro aberto e luz, sem fundo.</desc>
+  <g id="vozel-symbol" fill="#1A1305">
+  <!-- Left open page / side of the V -->
+  <path d="M70 146
+           C66 141 71 138 80 141
+           L168 165
+           C197 173 216 196 231 225
+           L245 254
+           C247 260 248 268 248 278
+           L248 414
+           C248 422 245 423 238 420
+           C216 412 200 398 188 380
+           L70 154
+           C67 150 67 147 70 146 Z"/>
+  <!-- Right open page / side of the V -->
+  <path d="M442 146
+           C446 141 441 138 432 141
+           L344 165
+           C315 173 296 196 281 225
+           L267 254
+           C265 260 264 268 264 278
+           L264 414
+           C264 422 267 423 274 420
+           C296 412 312 398 324 380
+           L442 154
+           C445 150 445 147 442 146 Z"/>
+  <!-- Light / flame in the center -->
+  <path d="M256 98
+           C247 120 229 144 229 164
+           C229 182 243 205 256 242
+           C269 205 283 182 283 164
+           C283 144 265 120 256 98 Z"/>
+  <!-- Upper page accents -->
+  <path d="M85 111
+           C82 106 85 103 91 105
+           C133 115 178 137 208 177
+           C174 155 137 138 96 127
+           C88 125 83 118 85 111 Z"/>
+  <path d="M427 111
+           C430 106 427 103 421 105
+           C379 115 334 137 304 177
+           C338 155 375 138 416 127
+           C424 125 429 118 427 111 Z"/>
+</g>
+
+</svg>

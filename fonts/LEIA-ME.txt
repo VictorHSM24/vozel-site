@@ -1,0 +1,3 @@
+Fontes hospedadas junto com o site (licença SIL Open Font License 1.1):
+- Newsreader (Production Type) - https://fonts.google.com/specimen/Newsreader
+- Atkinson Hyperlegible (Braille Institute) - https://fonts.google.com/specimen/Atkinson+Hyperlegible
